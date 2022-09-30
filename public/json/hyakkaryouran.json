@@ -1,0 +1,154 @@
+
+{
+  "offset": 0,
+  "notes": [
+   {
+    "direction": 1,
+    "targetTime": 1400
+   },
+   {
+    "direction": -1,
+    "targetTime": 2200
+   },
+   {
+    "direction": 0,
+    "targetTime": 3200
+   },
+   {
+    "direction": 0,
+    "targetTime": 3700
+   },
+   {
+    "direction": 1,
+    "targetTime": 4100
+   },
+   {
+    "direction": -1,
+    "targetTime": 5100
+   },
+   {
+    "direction": 0,
+    "targetTime": 6000
+   },
+   {
+    "direction": 0,
+    "targetTime": 6900
+   },
+   {
+    "direction": 1,
+    "targetTime": 7400
+   },
+   {
+    "direction": 0,
+    "targetTime": 7800
+   },
+   {
+    "direction": 0,
+    "targetTime": 8800
+   },
+   {
+    "direction": 1,
+    "targetTime": 9600
+   },
+   {
+    "direction": 0,
+    "targetTime": 10600
+   },
+   {
+    "direction": 0,
+    "targetTime": 11000
+   },
+   {
+    "direction": 1,
+    "targetTime": 11400
+   },
+   {
+    "direction": -1,
+    "targetTime": 12300
+   },
+   {
+    "direction": 0,
+    "targetTime": 13200
+   },
+   {
+    "direction": 0,
+    "targetTime": 14200
+   },
+   {
+    "direction": 1,
+    "targetTime": 14700
+   },
+   {
+    "direction": 0,
+    "targetTime": 15200
+   },
+   {
+    "direction": 0,
+    "targetTime": 16000
+   },
+   {
+    "direction": 0,
+    "targetTime": 16900
+   },
+   {
+    "direction": 1,
+    "targetTime": 17800
+   },
+   {
+    "direction": 0,
+    "targetTime": 18300
+   },
+   {
+    "direction": 1,
+    "targetTime": 18800
+   },
+   {
+    "direction": 0,
+    "targetTime": 19600
+   },
+   {
+    "direction": -1,
+    "targetTime": 20500
+   },
+   {
+    "direction": 0,
+    "targetTime": 21400
+   },
+   {
+    "direction": 1,
+    "targetTime": 21900
+   },
+   {
+    "direction": -1,
+    "targetTime": 22300
+   },
+   {
+    "direction": 0,
+    "targetTime": 23300
+   },
+   {
+    "direction": 0,
+    "targetTime": 24200
+   },
+   {
+    "direction": 0,
+    "targetTime": 25000
+   },
+   {
+    "direction": 1,
+    "targetTime": 25500
+   },
+   {
+    "direction": -1,
+    "targetTime": 26900
+   },
+   {
+    "direction": 0,
+    "targetTime": 27800
+   },
+   {
+    "direction": 0,
+    "targetTime": 28700
+   }
+  ]
+ }

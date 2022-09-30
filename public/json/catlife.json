@@ -1,0 +1,151 @@
+
+{
+  "offset": 0,
+  "notes": [
+   {
+    "direction": 1,
+    "targetTime": 4300
+   },
+   {
+    "direction": -1,
+    "targetTime": 5300
+   },
+   {
+    "direction": 0,
+    "targetTime": 6300
+   },
+   {
+    "direction": 0,
+    "targetTime": 7300
+   },
+   {
+    "direction": 1,
+    "targetTime": 8300
+   },
+   {
+    "direction": -1,
+    "targetTime": 9300
+   },
+   {
+    "direction": 0,
+    "targetTime": 10300
+   },
+   {
+    "direction": 0,
+    "targetTime": 10800
+   },
+   {
+    "direction": 0,
+    "targetTime": 11300
+   },
+   {
+    "direction": 1,
+    "targetTime": 12300
+   },
+   {
+    "direction": 1,
+    "targetTime": 13300
+   },
+   {
+    "direction": 0,
+    "targetTime": 14300
+   },
+   {
+    "direction": 0,
+    "targetTime": 15300
+   },
+   {
+    "direction": 0,
+    "targetTime": 16300
+   },
+   {
+    "direction": 0,
+    "targetTime": 17300
+   },
+   {
+    "direction": 0,
+    "targetTime": 18300
+   },
+   {
+    "direction": 1,
+    "targetTime": 18800
+   },
+   {
+    "direction": 0,
+    "targetTime": 19300
+   },
+   {
+    "direction": 0,
+    "targetTime": 20300
+   },
+   {
+    "direction": -1,
+    "targetTime": 21300
+   },
+   {
+    "direction": 0,
+    "targetTime": 22300
+   },
+   {
+    "direction": 0,
+    "targetTime": 23300
+   },
+   {
+    "direction": 1,
+    "targetTime": 24300
+   },
+   {
+    "direction": 0,
+    "targetTime": 25300
+   },
+   {
+    "direction": 0,
+    "targetTime": 26300
+   },
+   {
+    "direction": 1,
+    "targetTime": 26800
+   },
+   {
+    "direction": -1,
+    "targetTime": 27300
+   },
+   {
+    "direction": 0,
+    "targetTime": 28300
+   },
+   {
+    "direction": 0,
+    "targetTime": 29300
+   },
+   {
+    "direction": 0,
+    "targetTime": 30300
+   },
+   {
+    "direction": 1,
+    "targetTime": 31300
+   },
+   {
+    "direction": 1,
+    "targetTime": 32300
+   },
+   {
+    "direction": 0,
+    "targetTime": 33300
+   },
+   {
+    "direction": 0,
+    "targetTime": 34300
+   },
+   {
+    "direction": -1,
+    "targetTime": 34800
+   },
+   {
+    "direction": 1,
+    "targetTime": 35300
+   }
+
+  ]
+ }
